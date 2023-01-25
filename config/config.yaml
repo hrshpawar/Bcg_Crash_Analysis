@@ -1,0 +1,17 @@
+input_path:
+  charges: ./data/Charges_use.csv
+  damages: ./data/Damages_use.csv
+  endorse: ./data/Endorse_use.csv
+  primary_person: ./data/Primary_Person_use.csv
+  restricts: ./data/Restrict_use.csv
+  units: ./data/Units_use.csv
+
+output_path:
+  path1: ./Output/Analytics1
+  path2: ./Output/Analytics2
+  path3: ./Output/Analytics3
+  path4: ./Output/Analytics4
+  path5: ./Output/Analytics5
+  path6: ./Output/Analytics6
+  path7: ./Output/Analytics7
+  path8: ./Output/Analytics8
